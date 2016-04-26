@@ -1,10 +1,11 @@
 package fr.univavignon.courbes.agents.groupe07;
 
-import fr.univavignon.courbes.common.*;
+import fr.univavignon.courbes.common.Board;
+import fr.univavignon.courbes.common.Direction;
 
-public class AgentImpl {
+public class AgentImplFelix {
 	
-	AgentImpl(int playerId)
+	AgentImplFelix(int playerId)
 	{
 		
 	}
@@ -28,4 +29,5 @@ public class AgentImpl {
 	{
 		return 0.0;
 	}
+
 }
